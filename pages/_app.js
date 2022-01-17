@@ -1,3 +1,4 @@
+import styles from "../styles/globals.css"
 import Link from "next/link";
 
 const MyApp = ({ Component, pageProps }) => {
